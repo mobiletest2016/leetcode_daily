@@ -1,0 +1,26 @@
+name: "Select daily questions"
+on:
+  schedule:
+  - cron: "30 6 * * 1-5"    # UTC 6:30 AM is IST 12:00PM, Run only on weekdays
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v3
+    - name: Reset Repo
+      run: |-
+        git reset --hard origin/master
+        git clean -fX
+    - name: Update README
+      run: |-
+        bash update_questions.sh
+        head README.md
+    - name: Commit and Push
+      run: |-
+        git diff
+        git config --global user.email "mobiletest.mt2016@gmail.com"
+        git config --global user.name "MobileTest2016_bot"
+        git add -A
+        git commit -m "Daily Problems Updated" || exit 0
+        git push
