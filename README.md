@@ -1,3 +1,38 @@
+2023-08-29
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
+
+:green_circle: [258. Add Digits](https://leetcode.com/problems/add-digits/)
+
+
+:green_circle: [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
+
+:green_circle: [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+
+
+:green_circle: [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+
+
+:yellow_circle: [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+
+:green_circle: [258. Add Digits](https://leetcode.com/problems/add-digits/)
+
+
+:yellow_circle: [443. String Compression](https://leetcode.com/problems/string-compression/)
+
+
+
 2023-08-28
 ------
 
