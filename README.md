@@ -1,3 +1,38 @@
+2023-09-13
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:red_circle: [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
+
+
+:yellow_circle: [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
+
+
+:yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+
+
+:yellow_circle: [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+
+
+:green_circle: [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+
+:yellow_circle: [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+
+
+:green_circle: [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+
+
 2023-09-12
 ------
 
