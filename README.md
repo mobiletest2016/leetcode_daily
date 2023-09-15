@@ -1,3 +1,38 @@
+2023-09-15
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [51. N-Queens](https://leetcode.com/problems/n-queens/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+
+:yellow_circle: [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
+
+:red_circle: [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)
+
+
+:yellow_circle: [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+
+:green_circle: [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
+
+
+:yellow_circle: [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
+
+
+:red_circle: [928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)
+
+
+:yellow_circle: :lock: [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+
+
+
 2023-09-14
 ------
 
