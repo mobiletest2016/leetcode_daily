@@ -1,3 +1,38 @@
+2023-09-20
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
+
+
+:red_circle: :lock: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)
+
+
+:green_circle: [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+
+
+:yellow_circle: [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+
+
+:yellow_circle: [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+
+
+:red_circle: :lock: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)
+
+
+:yellow_circle: [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
+
+
+:yellow_circle: [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+
+
+:yellow_circle: [77. Combinations](https://leetcode.com/problems/combinations/)
+
+
+
 2023-09-19
 ------
 
