@@ -1,3 +1,38 @@
+2023-09-21
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
+
+
+:yellow_circle: [78. Subsets](https://leetcode.com/problems/subsets/)
+
+
+:yellow_circle: [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+
+
+:red_circle: :lock: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/)
+
+
+:green_circle: [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+
+
+:green_circle: [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+
+
+:green_circle: [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
+
+:green_circle: [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+
+
+
 2023-09-20
 ------
 
