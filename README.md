@@ -1,3 +1,38 @@
+2023-09-25
+------
+
+
+:red_circle: :lock: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:red_circle: [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+
+
+:red_circle: [1655. Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/)
+
+
+:yellow_circle: [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+
+
+:yellow_circle: [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+
+
+:yellow_circle: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+
+:green_circle: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+
+:yellow_circle: [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+
+
+
 2023-09-22
 ------
 
