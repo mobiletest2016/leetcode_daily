@@ -1,3 +1,38 @@
+2023-09-29
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2800. Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/)
+
+
+:red_circle: :lock: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [664. Strange Printer](https://leetcode.com/problems/strange-printer/)
+
+
+:yellow_circle: [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
+
+
+:green_circle: [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+
+:green_circle: [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
+
+:green_circle: [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+
+:red_circle: [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)
+
+
+:yellow_circle: [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+
+
+:yellow_circle: [1589. Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/)
+
+
+
 2023-09-28
 ------
 
