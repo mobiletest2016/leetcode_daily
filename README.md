@@ -1,3 +1,38 @@
+2023-10-04
+------
+
+
+
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)
+
+
+:red_circle: [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+
+
+:yellow_circle: [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
+
+
+:yellow_circle: [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+
+
+:green_circle: [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+
+:yellow_circle: [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
+
+
+:yellow_circle: :lock: [325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
+
+
+:yellow_circle: [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
+
+
+
 2023-10-03
 ------
 
