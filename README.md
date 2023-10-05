@@ -1,3 +1,38 @@
+2023-10-05
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [51. N-Queens](https://leetcode.com/problems/n-queens/)
+
+
+:yellow_circle: [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+
+
+:yellow_circle: [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
+
+
+:green_circle: [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+
+
+:yellow_circle: [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+
+
+:yellow_circle: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+
+:yellow_circle: [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+
+
+:yellow_circle: [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+
+
+
 2023-10-04
 ------
 
