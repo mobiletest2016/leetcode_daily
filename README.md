@@ -1,3 +1,38 @@
+2023-10-09
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)
+
+
+:green_circle: [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+
+:green_circle: [704. Binary Search](https://leetcode.com/problems/binary-search/)
+
+
+:yellow_circle: [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+
+
+:red_circle: [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
+
+
+:yellow_circle: [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+
+:yellow_circle: [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+
+
+:yellow_circle: [910. Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)
+
+
+
 2023-10-06
 ------
 
