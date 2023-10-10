@@ -1,3 +1,38 @@
+2023-10-10
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
+
+
+:red_circle: [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+
+
+:green_circle: [704. Binary Search](https://leetcode.com/problems/binary-search/)
+
+
+:green_circle: [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+
+
+:red_circle: [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
+
+:yellow_circle: [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+
+
+:yellow_circle: [475. Heaters](https://leetcode.com/problems/heaters/)
+
+
+
 2023-10-09
 ------
 
