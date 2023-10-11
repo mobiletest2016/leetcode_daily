@@ -1,3 +1,38 @@
+2023-10-11
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
+
+:yellow_circle: [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+
+
+:yellow_circle: [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
+
+
+:yellow_circle: [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+
+
+:red_circle: :lock: [2158. Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/)
+
+
+:green_circle: [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
+
+
+:red_circle: [2484. Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/)
+
+
+:yellow_circle: [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
+
+
+
 2023-10-10
 ------
 
