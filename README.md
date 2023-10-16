@@ -1,3 +1,38 @@
+2023-10-16
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)
+
+
+:yellow_circle: [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
+
+:red_circle: [805. Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)
+
+
+:red_circle: :lock: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)
+
+
+:green_circle: [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
+
+
+:red_circle: [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
+
+
+:red_circle: [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+
+
+:yellow_circle: [475. Heaters](https://leetcode.com/problems/heaters/)
+
+
+
 2023-10-13
 ------
 
