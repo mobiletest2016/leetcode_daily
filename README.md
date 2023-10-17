@@ -1,3 +1,38 @@
+2023-10-17
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/)
+
+
+:yellow_circle: [494. Target Sum](https://leetcode.com/problems/target-sum/)
+
+
+:yellow_circle: [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+
+
+:yellow_circle: [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+
+
+:yellow_circle: [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+
+
+:yellow_circle: [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+
+
+:yellow_circle: [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
+
+
+:yellow_circle: [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
+
+
+
 2023-10-16
 ------
 
