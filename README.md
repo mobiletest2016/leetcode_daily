@@ -1,3 +1,38 @@
+2023-10-23
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+
+:yellow_circle: [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+
+
+:yellow_circle: [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+
+
+:yellow_circle: [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+
+
+:yellow_circle: [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+
+:green_circle: [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+
+
+:red_circle: [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
+
+
+:yellow_circle: [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+
+
+
 2023-10-20
 ------
 
