@@ -1,3 +1,38 @@
+2023-10-24
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2468. Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:yellow_circle: [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+
+:red_circle: [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/)
+
+
+:red_circle: [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)
+
+
+:yellow_circle: [2735. Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/)
+
+
+:green_circle: [169. Majority Element](https://leetcode.com/problems/majority-element/)
+
+
+:yellow_circle: [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+
+
+:yellow_circle: [394. Decode String](https://leetcode.com/problems/decode-string/)
+
+
+
 2023-10-23
 ------
 
