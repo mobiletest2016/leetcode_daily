@@ -1,3 +1,38 @@
+2023-10-26
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
+
+:yellow_circle: [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+
+
+:green_circle: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+
+
+:green_circle: [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
+
+:red_circle: :lock: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/)
+
+
+:yellow_circle: [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+
+
+:yellow_circle: [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+
+
+:yellow_circle: [90. Subsets II](https://leetcode.com/problems/subsets-ii/)
+
+
+
 2023-10-25
 ------
 
