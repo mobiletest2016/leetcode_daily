@@ -1,3 +1,38 @@
+2023-10-27
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+
+:red_circle: [1542. Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/)
+
+
+:yellow_circle: :lock: [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+
+
+:red_circle: [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
+
+
+:red_circle: [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
+
+
+:yellow_circle: [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+
+
+:yellow_circle: [1664. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/)
+
+
+:yellow_circle: [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
+
+
+
 2023-10-26
 ------
 
