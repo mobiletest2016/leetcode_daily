@@ -1,3 +1,38 @@
+2023-11-01
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [155. Min Stack](https://leetcode.com/problems/min-stack/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [502. IPO](https://leetcode.com/problems/ipo/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2097. Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
+
+
+:yellow_circle: [78. Subsets](https://leetcode.com/problems/subsets/)
+
+
+:red_circle: [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)
+
+
+:yellow_circle: [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+
+
+:green_circle: [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+
+
+:yellow_circle: [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
+
+
+:yellow_circle: [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)
+
+
+:yellow_circle: [1648. Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)
+
+
+
 2023-10-31
 ------
 
