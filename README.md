@@ -1,3 +1,38 @@
+2023-11-03
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [815. Bus Routes](https://leetcode.com/problems/bus-routes/)
+
+
+:green_circle: [112. Path Sum](https://leetcode.com/problems/path-sum/)
+
+
+:green_circle: [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
+
+
+:green_circle: [231. Power of Two](https://leetcode.com/problems/power-of-two/)
+
+
+:green_circle: [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)
+
+
+:red_circle: :lock: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/)
+
+
+:yellow_circle: [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+
+
+:yellow_circle: [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+
+
+
 2023-11-02
 ------
 
