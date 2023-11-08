@@ -1,3 +1,38 @@
+2023-11-08
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
+
+
+:red_circle: [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+
+
+:yellow_circle: [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
+
+
+:green_circle: [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+
+:yellow_circle: [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+
+
+:red_circle: [2659. Make Array Empty](https://leetcode.com/problems/make-array-empty/)
+
+
+:yellow_circle: :lock: [2737. Find the Closest Marked Node](https://leetcode.com/problems/find-the-closest-marked-node/)
+
+
+:yellow_circle: :lock: [1258. Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/)
+
+
+
 2023-11-07
 ------
 
