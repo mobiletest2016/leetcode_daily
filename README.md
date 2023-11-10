@@ -1,3 +1,38 @@
+2023-11-10
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/)
+
+
+:yellow_circle: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
+
+
+:yellow_circle: [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)
+
+
+:yellow_circle: [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+
+:yellow_circle: [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+
+
+:yellow_circle: [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+
+
+:green_circle: [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)
+
+
+:red_circle: [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
+
+
+
 2023-11-09
 ------
 
