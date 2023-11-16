@@ -1,3 +1,38 @@
+2023-11-16
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+
+
+:yellow_circle: [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/)
+
+
+:red_circle: [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
+
+
+:red_circle: [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+
+
+:yellow_circle: [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/)
+
+
+:yellow_circle: :lock: [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)
+
+
+:red_circle: [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
+
+
+:green_circle: [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+
+
+
 2023-11-15
 ------
 
