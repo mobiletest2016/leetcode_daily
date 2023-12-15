@@ -1,3 +1,38 @@
+2023-12-15
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
+
+
+:yellow_circle: :lock: [505. The Maze II](https://leetcode.com/problems/the-maze-ii/)
+
+
+:yellow_circle: [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
+
+
+:yellow_circle: [436. Find Right Interval](https://leetcode.com/problems/find-right-interval/)
+
+
+:yellow_circle: [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+
+:green_circle: [1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
+
+
+:green_circle: [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+
+
+:yellow_circle: [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+
+
+
 2023-12-14
 ------
 
