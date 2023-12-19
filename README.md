@@ -1,3 +1,38 @@
+2023-12-19
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+
+:yellow_circle: [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+
+
+:green_circle: [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+
+:yellow_circle: [1887. Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/)
+
+
+:yellow_circle: [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+
+
+:green_circle: :lock: [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+
+
+:red_circle: :lock: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)
+
+
+:yellow_circle: [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+
+
+
 2023-12-18
 ------
 
