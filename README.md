@@ -1,3 +1,38 @@
+2023-12-26
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+
+
+:yellow_circle: [2662. Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/)
+
+
+:yellow_circle: [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)
+
+
+:yellow_circle: [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+
+
+:yellow_circle: [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/)
+
+
+:yellow_circle: [55. Jump Game](https://leetcode.com/problems/jump-game/)
+
+
+:yellow_circle: [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+
+
+:red_circle: :lock: [2714. Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/)
+
+
+
 2023-12-25
 ------
 
