@@ -1,3 +1,38 @@
+2023-12-27
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+
+
+
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+
+
+:yellow_circle: [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
+
+
+:yellow_circle: [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+
+
+:yellow_circle: [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
+
+
+:yellow_circle: [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+
+
+:yellow_circle: [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+
+:green_circle: [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+
+
 2023-12-26
 ------
 
