@@ -1,3 +1,38 @@
+2023-12-28
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)
+
+
+:yellow_circle: [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+
+
+:yellow_circle: [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)
+
+
+:yellow_circle: :lock: [2093. Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/)
+
+
+:yellow_circle: [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
+
+
+:yellow_circle: [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
+
+
+:yellow_circle: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
+
+
+:yellow_circle: [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
+
+
+
 2023-12-27
 ------
 
