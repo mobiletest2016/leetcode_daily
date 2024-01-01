@@ -1,3 +1,38 @@
+2024-01-01
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
+
+
+:green_circle: [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
+
+
+:red_circle: [1163. Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+
+
+:yellow_circle: [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
+
+
+:yellow_circle: [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+
+:yellow_circle: [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)
+
+
+:yellow_circle: [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+
+
+:yellow_circle: [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+
+
+
 2023-12-29
 ------
 
