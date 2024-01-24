@@ -1,3 +1,38 @@
+2024-01-24
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [135. Candy](https://leetcode.com/problems/candy/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+
+
+:yellow_circle: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+
+:yellow_circle: [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)
+
+
+:yellow_circle: [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
+
+
+:red_circle: [1879. Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/)
+
+
+:yellow_circle: [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)
+
+
+:red_circle: [715. Range Module](https://leetcode.com/problems/range-module/)
+
+
+:yellow_circle: :lock: [2093. Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/)
+
+
+
 2024-01-23
 ------
 
