@@ -1,3 +1,38 @@
+2024-01-25
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [664. Strange Printer](https://leetcode.com/problems/strange-printer/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [460. LFU Cache](https://leetcode.com/problems/lfu-cache/)
+
+
+:red_circle: :lock: [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)
+
+
+:green_circle: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+
+:yellow_circle: [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/)
+
+
+:yellow_circle: [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)
+
+
+:yellow_circle: [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+
+
+:yellow_circle: [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
+
+
+:red_circle: [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
+
+
+
 2024-01-24
 ------
 
