@@ -1,3 +1,38 @@
+2024-01-29
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [155. Min Stack](https://leetcode.com/problems/min-stack/)
+
+
+:green_circle: [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
+
+:red_circle: :lock: [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)
+
+
+:yellow_circle: [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+
+
+:yellow_circle: :lock: [505. The Maze II](https://leetcode.com/problems/the-maze-ii/)
+
+
+:green_circle: [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)
+
+
+:green_circle: [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
+
+
+:yellow_circle: [1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)
+
+
+
 2024-01-26
 ------
 
