@@ -1,3 +1,38 @@
+2024-01-30
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1206. Design Skiplist](https://leetcode.com/problems/design-skiplist/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+
+
+:yellow_circle: [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
+
+
+:green_circle: [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+
+
+:yellow_circle: [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)
+
+
+:green_circle: [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+
+
+:yellow_circle: :lock: [1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)
+
+
+:yellow_circle: [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
+
+
+:yellow_circle: [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+
+
+
 2024-01-29
 ------
 
