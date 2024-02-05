@@ -1,3 +1,38 @@
+2024-02-05
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
+
+:red_circle: [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
+
+
+:green_circle: [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
+
+:yellow_circle: [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+
+
+:yellow_circle: [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
+
+
+:red_circle: [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
+
+:yellow_circle: [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+
+
+:yellow_circle: [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
+
+
 2024-02-02
 ------
 
