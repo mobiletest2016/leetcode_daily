@@ -1,3 +1,38 @@
+2024-02-08
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
+
+
+:yellow_circle: [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)
+
+
+:yellow_circle: :lock: [370. Range Addition](https://leetcode.com/problems/range-addition/)
+
+
+:green_circle: [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
+
+
+:yellow_circle: [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
+
+
+:red_circle: [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+
+
+:red_circle: [1494. Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/)
+
+
+:yellow_circle: [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+
+
+
 2024-02-07
 ------
 
