@@ -1,3 +1,38 @@
+2024-02-27
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture>
+
+
+
+
+
+:yellow_circle: :lock: [1258. Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/)
+
+
+:green_circle: [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+
+
+:yellow_circle: [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+
+
+:red_circle: [391. Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
+
+
+:yellow_circle: [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
+
+
+:yellow_circle: :lock: [2093. Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/)
+
+
+:red_circle: [699. Falling Squares](https://leetcode.com/problems/falling-squares/)
+
+
+
 2024-02-26
 ------
 
