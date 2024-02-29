@@ -1,3 +1,38 @@
+2024-02-29
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [815. Bus Routes](https://leetcode.com/problems/bus-routes/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)
+
+
+:red_circle: [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+
+
+:yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+
+
+:yellow_circle: [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+
+
+:red_circle: [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+
+
+:yellow_circle: [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+
+
+:red_circle: [1349. Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)
+
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+
+
+
 2024-02-28
 ------
 
