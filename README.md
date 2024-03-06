@@ -1,3 +1,38 @@
+2024-03-06
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)
+
+
+:green_circle: [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
+
+
+:yellow_circle: [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)
+
+
+:yellow_circle: [55. Jump Game](https://leetcode.com/problems/jump-game/)
+
+
+:green_circle: [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+
+
+:red_circle: [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/)
+
+
+:yellow_circle: [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
+
+
+:yellow_circle: :lock: [1258. Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/)
+
+
+
 2024-03-05
 ------
 
