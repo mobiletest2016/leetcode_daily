@@ -1,3 +1,38 @@
+2024-03-19
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [432. All O(1) Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/)
+
+
+:yellow_circle: [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
+
+
+:yellow_circle: [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
+
+
+:yellow_circle: :lock: [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)
+
+
+:green_circle: [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+
+
+:yellow_circle: [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
+
+
+:yellow_circle: [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+
+
+:yellow_circle: [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+
+
+
 2024-03-18
 ------
 
