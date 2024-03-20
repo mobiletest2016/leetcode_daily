@@ -1,3 +1,38 @@
+2024-03-20
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+
+
+:red_circle: [1521. Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/)
+
+
+:green_circle: [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+
+:yellow_circle: [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+
+:yellow_circle: [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+
+
+:red_circle: [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/)
+
+
+:green_circle: [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+
+
+:green_circle: [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+
+
+
 2024-03-19
 ------
 
