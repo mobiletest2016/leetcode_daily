@@ -1,3 +1,38 @@
+2024-03-26
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [155. Min Stack](https://leetcode.com/problems/min-stack/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)
+
+
+:yellow_circle: :lock: [2473. Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/)
+
+
+:red_circle: :lock: [711. Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/)
+
+
+:yellow_circle: [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+
+
+:green_circle: [1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
+
+
+:yellow_circle: [1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)
+
+
+:yellow_circle: [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+
+
+:red_circle: [1537. Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/)
+
+
+
 2024-03-25
 ------
 
