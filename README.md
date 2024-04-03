@@ -1,3 +1,38 @@
+2024-04-03
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
+
+
+:yellow_circle: [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+
+
+:yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+
+
+:yellow_circle: [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
+
+
+:yellow_circle: [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+
+
+:yellow_circle: [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
+
+
+:red_circle: [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+
+
+:yellow_circle: [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
+
+
+
 2024-04-02
 ------
 
