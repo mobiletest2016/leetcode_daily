@@ -1,3 +1,38 @@
+2024-04-09
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1227. Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
+
+
+:yellow_circle: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+
+:red_circle: :lock: [2519. Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/)
+
+
+:yellow_circle: [2498. Frog Jump II](https://leetcode.com/problems/frog-jump-ii/)
+
+
+:yellow_circle: [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+
+
+:yellow_circle: [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+
+
+:red_circle: [403. Frog Jump](https://leetcode.com/problems/frog-jump/)
+
+
+:yellow_circle: [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
+
+
+
 2024-04-08
 ------
 
