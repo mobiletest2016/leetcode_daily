@@ -1,3 +1,38 @@
+2024-04-16
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)
+
+
+:yellow_circle: [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+
+
+:yellow_circle: [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+
+
+:red_circle: [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/)
+
+
+:yellow_circle: [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/)
+
+
+:green_circle: [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+
+
+:yellow_circle: [78. Subsets](https://leetcode.com/problems/subsets/)
+
+
+:green_circle: [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+
+
+
 2024-04-15
 ------
 
