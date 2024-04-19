@@ -1,3 +1,38 @@
+2024-04-19
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [460. LFU Cache](https://leetcode.com/problems/lfu-cache/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:red_circle: [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+
+
+:red_circle: [1923. Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/)
+
+
+:yellow_circle: [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
+
+
+:green_circle: [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
+
+
+:yellow_circle: [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+
+:green_circle: [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+
+:red_circle: [2213. Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)
+
+
+
 2024-04-18
 ------
 
