@@ -1,3 +1,38 @@
+2024-04-30
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+
+:yellow_circle: [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
+
+
+:red_circle: [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)
+
+
+:red_circle: [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+
+
+:green_circle: [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+
+
+:yellow_circle: [443. String Compression](https://leetcode.com/problems/string-compression/)
+
+
+:yellow_circle: [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+
+
+:red_circle: [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+
+
+
 2024-04-29
 ------
 
