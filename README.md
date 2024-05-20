@@ -1,3 +1,38 @@
+2024-05-20
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
+
+
+:yellow_circle: [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+
+
+:yellow_circle: [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)
+
+
+:yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+
+
+:yellow_circle: :lock: [1258. Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/)
+
+
+:red_circle: [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
+
+
+:yellow_circle: [475. Heaters](https://leetcode.com/problems/heaters/)
+
+
+:yellow_circle: [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
+
+
+
 2024-05-17
 ------
 
