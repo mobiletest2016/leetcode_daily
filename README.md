@@ -1,3 +1,38 @@
+2024-05-27
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
+
+
+:green_circle: [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/)
+
+
+:green_circle: [1114. Print in Order](https://leetcode.com/problems/print-in-order/)
+
+
+:green_circle: [258. Add Digits](https://leetcode.com/problems/add-digits/)
+
+
+:red_circle: [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)
+
+
+:red_circle: [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:yellow_circle: [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+
+
+:green_circle: [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
+
+
+
 2024-05-24
 ------
 
