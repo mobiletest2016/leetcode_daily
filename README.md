@@ -1,3 +1,38 @@
+2024-05-29
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
+
+
+:green_circle: [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+
+
+:yellow_circle: [1818. Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
+
+
+:green_circle: [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+
+
+:yellow_circle: [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+
+:red_circle: :lock: [2519. Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/)
+
+
+:red_circle: [805. Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)
+
+
+:green_circle: [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+
+
 2024-05-28
 ------
 
