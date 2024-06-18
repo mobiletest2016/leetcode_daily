@@ -1,3 +1,38 @@
+2024-06-18
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [274. H-Index](https://leetcode.com/problems/h-index/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
+
+
+:red_circle: :lock: [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)
+
+
+:yellow_circle: [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+
+
+:yellow_circle: [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
+
+
+:red_circle: [854. K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)
+
+
+:yellow_circle: :lock: [1272. Remove Interval](https://leetcode.com/problems/remove-interval/)
+
+
+:yellow_circle: [808. Soup Servings](https://leetcode.com/problems/soup-servings/)
+
+
+:red_circle: [2659. Make Array Empty](https://leetcode.com/problems/make-array-empty/)
+
+
+
 2024-06-17
 ------
 
