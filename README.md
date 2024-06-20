@@ -1,3 +1,38 @@
+2024-06-20
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+
+
+:red_circle: [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+
+
+:red_circle: [1494. Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/)
+
+
+:yellow_circle: [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+
+
+:yellow_circle: [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+
+
+:yellow_circle: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+
+:yellow_circle: :lock: [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)
+
+
+:yellow_circle: [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+
 2024-06-19
 ------
 
