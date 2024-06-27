@@ -1,3 +1,38 @@
+2024-06-27
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
+
+
+:red_circle: [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)
+
+
+:green_circle: [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+
+
+:yellow_circle: [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
+
+
+:yellow_circle: [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
+
+
+:yellow_circle: [853. Car Fleet](https://leetcode.com/problems/car-fleet/)
+
+
+:green_circle: [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+
+
+:yellow_circle: [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
+
+
+
 2024-06-26
 ------
 
