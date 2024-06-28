@@ -1,3 +1,38 @@
+2024-06-28
+------
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1909. Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [134. Gas Station](https://leetcode.com/problems/gas-station/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+
+:yellow_circle: [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+
+
+:yellow_circle: [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+
+
+:yellow_circle: [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+
+
+:red_circle: :lock: [2158. Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/)
+
+
+:red_circle: [2213. Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)
+
+
+:yellow_circle: [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+
+
+:red_circle: [1157. Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
+
+
+
 2024-06-27
 ------
 
