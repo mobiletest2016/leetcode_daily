@@ -1,3 +1,38 @@
+2024-07-08
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
+
+
+:yellow_circle: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+
+:red_circle: [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+
+
+:yellow_circle: [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+
+
+:yellow_circle: [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
+
+
+:yellow_circle: [55. Jump Game](https://leetcode.com/problems/jump-game/)
+
+
+:yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)
+
+
+:yellow_circle: [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
+
+
+
 2024-07-05
 ------
 
