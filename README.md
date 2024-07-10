@@ -1,3 +1,38 @@
+2024-07-10
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
+
+
+:yellow_circle: [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+
+
+:green_circle: [704. Binary Search](https://leetcode.com/problems/binary-search/)
+
+
+:green_circle: [67. Add Binary](https://leetcode.com/problems/add-binary/)
+
+
+:yellow_circle: [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)
+
+
+:green_circle: [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+
+
+:yellow_circle: [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+
+
+:red_circle: [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
+
+
 2024-07-09
 ------
 
