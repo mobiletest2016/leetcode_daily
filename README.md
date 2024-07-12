@@ -1,3 +1,38 @@
+2024-07-12
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
+
+
+:yellow_circle: [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
+
+
+:yellow_circle: [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
+
+
+:yellow_circle: [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+
+:yellow_circle: [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+
+:yellow_circle: [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+
+
+:yellow_circle: [648. Replace Words](https://leetcode.com/problems/replace-words/)
+
+
+:yellow_circle: [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+
+
+
 2024-07-11
 ------
 
