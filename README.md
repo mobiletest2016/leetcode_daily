@@ -1,3 +1,38 @@
+2024-07-18
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+
+:red_circle: [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:red_circle: [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+
+
+:red_circle: [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
+
+
+:yellow_circle: [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)
+
+
+:green_circle: [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+
+:yellow_circle: [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+
+
+:yellow_circle: [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)
+
+
+
 2024-07-17
 ------
 
