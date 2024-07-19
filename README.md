@@ -1,3 +1,38 @@
+2024-07-19
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2468. Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:red_circle: [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+
+
+:green_circle: [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+
+
+:red_circle: [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+
+
+:yellow_circle: [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
+
+
+:yellow_circle: [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)
+
+
+:yellow_circle: [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+
+
+:red_circle: [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
+
+
+
 2024-07-18
 ------
 
