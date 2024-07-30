@@ -1,3 +1,38 @@
+2024-07-30
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+
+
+:yellow_circle: [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+
+
+:green_circle: [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
+
+
+:yellow_circle: [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+
+
+:yellow_circle: [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
+
+
+:yellow_circle: [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+
+
+:yellow_circle: [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
+
+
+:yellow_circle: :lock: [2031. Count Subarrays With More Ones Than Zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/)
+
+
+
 2024-07-29
 ------
 
