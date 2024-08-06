@@ -1,3 +1,38 @@
+2024-08-06
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2741. Special Permutations](https://leetcode.com/problems/special-permutations/)
+
+
+:yellow_circle: [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
+
+
+:red_circle: [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)
+
+
+:red_circle: [2736. Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)
+
+
+:red_circle: :lock: [1724. Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/)
+
+
+:yellow_circle: [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+
+
+:yellow_circle: [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+
+:yellow_circle: [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
+
+
+
 2024-08-05
 ------
 
