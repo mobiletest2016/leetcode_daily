@@ -1,3 +1,38 @@
+2024-08-07
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
+
+:yellow_circle: [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+
+
+:yellow_circle: :lock: [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) [LINTCODE](https://www.lintcode.com/problem/178)
+
+
+:yellow_circle: [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+
+
+:yellow_circle: [1053. Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)
+
+
+:yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)
+
+
+:green_circle: [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
+
+
+:green_circle: [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+
+
+
 2024-08-06
 ------
 
