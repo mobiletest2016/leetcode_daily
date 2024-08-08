@@ -1,3 +1,38 @@
+2024-08-08
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:yellow_circle: [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+
+
+:yellow_circle: [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+
+
+:red_circle: [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
+
+:red_circle: [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
+
+
+:yellow_circle: [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+
+
+:yellow_circle: [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+
+
+:yellow_circle: [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+
+
+
 2024-08-07
 ------
 
