@@ -1,3 +1,38 @@
+2024-08-14
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2741. Special Permutations](https://leetcode.com/problems/special-permutations/)
+
+
+:yellow_circle: [86. Partition List](https://leetcode.com/problems/partition-list/)
+
+
+:red_circle: [2736. Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)
+
+
+:green_circle: [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
+
+
+:yellow_circle: [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/)
+
+
+:red_circle: [2569. Handling Sum Queries After Update](https://leetcode.com/problems/handling-sum-queries-after-update/)
+
+
+:yellow_circle: [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+
+
+:yellow_circle: :lock: [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) [LINTCODE](https://www.lintcode.com/problem/178)
+
+
+
 2024-08-13
 ------
 
