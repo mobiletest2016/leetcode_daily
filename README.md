@@ -1,3 +1,38 @@
+2024-08-19
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)
+
+
+:yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+
+:yellow_circle: [1589. Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/)
+
+
+:yellow_circle: :lock: [737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)
+
+
+:yellow_circle: [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+
+
+:yellow_circle: [322. Coin Change](https://leetcode.com/problems/coin-change/)
+
+
+:yellow_circle: [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)
+
+
+:yellow_circle: [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+
+
 2024-08-16
 ------
 
