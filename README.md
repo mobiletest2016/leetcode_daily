@@ -1,3 +1,38 @@
+2024-08-21
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [134. Gas Station](https://leetcode.com/problems/gas-station/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+
+
+:green_circle: [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+
+
+:green_circle: [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
+
+
+:yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+
+
+:red_circle: [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)
+
+
+:red_circle: [1627. Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/)
+
+
+:yellow_circle: [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+
+
+:green_circle: [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+
+
 2024-08-20
 ------
 
