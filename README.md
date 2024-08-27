@@ -1,3 +1,38 @@
+2024-08-27
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+
+
+:yellow_circle: [139. Word Break](https://leetcode.com/problems/word-break/)
+
+
+:green_circle: [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+
+
+:yellow_circle: [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
+
+
+:yellow_circle: [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/)
+
+
+:yellow_circle: [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+
+
+:red_circle: [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+
+
+:yellow_circle: [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)
+
+
+
 2024-08-26
 ------
 
