@@ -1,3 +1,38 @@
+2024-09-19
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+
+:green_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+
+
+:yellow_circle: [1664. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/)
+
+
+:yellow_circle: [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
+
+
+:yellow_circle: [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+
+
+:yellow_circle: [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:yellow_circle: [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+
+
+:green_circle: [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
+
+
+:yellow_circle: [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+
+
+
 2024-09-18
 ------
 
