@@ -1,3 +1,38 @@
+2024-10-04
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2468. Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+
+:yellow_circle: [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+
+
+:red_circle: [1349. Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)
+
+
+:red_circle: [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+
+
+:yellow_circle: [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+
+
+:yellow_circle: [935. Knight Dialer](https://leetcode.com/problems/knight-dialer/)
+
+
+:red_circle: [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+
+
+:yellow_circle: [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)
+
+
+
 2024-10-03
 ------
 
