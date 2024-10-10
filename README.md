@@ -1,3 +1,38 @@
+2024-10-10
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+
+
+:yellow_circle: [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)
+
+
+:yellow_circle: [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+
+
+:yellow_circle: [198. House Robber](https://leetcode.com/problems/house-robber/)
+
+
+:yellow_circle: [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+
+
+:green_circle: [231. Power of Two](https://leetcode.com/problems/power-of-two/)
+
+
+:yellow_circle: [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)
+
+
+:red_circle: :lock: [2158. Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/)
+
+
+
 2024-10-09
 ------
 
