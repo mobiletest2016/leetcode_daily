@@ -1,3 +1,38 @@
+2024-10-22
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1117. Building H2O](https://leetcode.com/problems/building-h2o/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+
+:yellow_circle: :lock: [505. The Maze II](https://leetcode.com/problems/the-maze-ii/)
+
+
+:yellow_circle: [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
+
+
+:yellow_circle: :lock: [505. The Maze II](https://leetcode.com/problems/the-maze-ii/)
+
+
+:green_circle: [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+
+
+:red_circle: [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:yellow_circle: [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
+
+
+:green_circle: [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+
+
+
 2024-10-21
 ------
 
