@@ -1,3 +1,38 @@
+2024-10-30
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+
+
+:yellow_circle: [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
+
+:red_circle: :lock: [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)
+
+
+:yellow_circle: [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
+
+
+:red_circle: [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
+
+
+:red_circle: [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)
+
+
+:green_circle: [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+
+:green_circle: [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+
+
+
 2024-10-29
 ------
 
