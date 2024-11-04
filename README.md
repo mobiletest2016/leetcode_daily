@@ -1,3 +1,38 @@
+2024-11-04
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+
+
+:green_circle: [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
+
+
+:yellow_circle: [2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/)
+
+
+:yellow_circle: [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+
+
+:yellow_circle: [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+
+
+:red_circle: [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+
+
+:yellow_circle: [1508. Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)
+
+
+:yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+
+
 2024-11-01
 ------
 
