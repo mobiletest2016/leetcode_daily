@@ -1,3 +1,38 @@
+2024-11-06
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+
+
+:yellow_circle: [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+
+:red_circle: [1776. Car Fleet II](https://leetcode.com/problems/car-fleet-ii/)
+
+
+:yellow_circle: [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)
+
+
+:yellow_circle: [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+
+
+:yellow_circle: [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:yellow_circle: [343. Integer Break](https://leetcode.com/problems/integer-break/)
+
+
+:yellow_circle: [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+
+
+
 2024-11-05
 ------
 
