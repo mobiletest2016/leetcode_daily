@@ -1,3 +1,38 @@
+2024-11-11
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [169. Majority Element](https://leetcode.com/problems/majority-element/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
+
+:yellow_circle: [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+
+
+:yellow_circle: [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+
+
+:yellow_circle: [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)
+
+
+:yellow_circle: [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
+
+
+:yellow_circle: [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)
+
+
+:yellow_circle: [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+
+
+:yellow_circle: [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
+
+
+
 2024-11-08
 ------
 
