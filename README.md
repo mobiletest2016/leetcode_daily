@@ -1,3 +1,38 @@
+2024-11-21
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+
+
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)
+
+
+:yellow_circle: [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+
+
+:yellow_circle: [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)
+
+
+:red_circle: [135. Candy](https://leetcode.com/problems/candy/)
+
+
+:green_circle: [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+
+
+:red_circle: [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)
+
+
+:red_circle: [1659. Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/)
+
+
+:yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+
+
 2024-11-20
 ------
 
