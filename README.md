@@ -1,3 +1,38 @@
+2024-11-22
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)
+
+
+:yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+
+
+:yellow_circle: [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
+
+
+:red_circle: [1537. Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/)
+
+
+:yellow_circle: [143. Reorder List](https://leetcode.com/problems/reorder-list/)
+
+
+:yellow_circle: [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
+
+
+:green_circle: [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
+
+:yellow_circle: [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+
+
+
 2024-11-21
 ------
 
