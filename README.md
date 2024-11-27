@@ -1,3 +1,38 @@
+2024-11-27
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
+:red_circle: [1655. Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/)
+
+
+:yellow_circle: [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+
+:yellow_circle: [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+
+
+:yellow_circle: [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+
+
+:yellow_circle: [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+
+:green_circle: [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+
+
+:yellow_circle: [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+
+
 2024-11-26
 ------
 
