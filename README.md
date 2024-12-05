@@ -1,3 +1,38 @@
+2024-12-05
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
+
+
+:yellow_circle: [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+
+
+:red_circle: [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+
+
+:red_circle: [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+
+
+:yellow_circle: [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+
+
+:yellow_circle: [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+
+
+:yellow_circle: [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+
+
+:yellow_circle: [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
+
+
 2024-12-04
 ------
 
