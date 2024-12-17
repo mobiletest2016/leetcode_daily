@@ -1,3 +1,38 @@
+2024-12-17
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
+
+
+:yellow_circle: [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
+
+
+:green_circle: [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
+
+
+:yellow_circle: [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/)
+
+
+:yellow_circle: [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
+
+
+:yellow_circle: [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
+
+
+:yellow_circle: [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+
+
+:yellow_circle: [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+
+
+
 2024-12-16
 ------
 
