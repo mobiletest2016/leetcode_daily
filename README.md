@@ -1,3 +1,38 @@
+2024-12-18
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1227. Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
+
+:green_circle: [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+
+:yellow_circle: [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+
+:yellow_circle: [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+
+
+:yellow_circle: [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
+
+
+:red_circle: [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+
+
+:red_circle: [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+
+
+:yellow_circle: [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+
+
 2024-12-17
 ------
 
