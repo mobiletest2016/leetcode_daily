@@ -1,3 +1,38 @@
+2024-12-23
+------
+
+
+:green_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+
+
+:green_circle: [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
+
+:red_circle: [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+
+:yellow_circle: [910. Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)
+
+
+:green_circle: [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
+
+
+:yellow_circle: [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
+
+
+:yellow_circle: [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+
+
+:red_circle: [1537. Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/)
+
+
+
 2024-12-20
 ------
 
