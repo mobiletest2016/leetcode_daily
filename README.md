@@ -1,3 +1,38 @@
+2025-01-01
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
+
+
+:yellow_circle: [2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/)
+
+
+:red_circle: [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+
+
+:yellow_circle: [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)
+
+
+:green_circle: [326. Power of Three](https://leetcode.com/problems/power-of-three/)
+
+
+:yellow_circle: [322. Coin Change](https://leetcode.com/problems/coin-change/)
+
+
+:green_circle: [342. Power of Four](https://leetcode.com/problems/power-of-four/)
+
+
+:red_circle: [2569. Handling Sum Queries After Update](https://leetcode.com/problems/handling-sum-queries-after-update/)
+
+
+
 2024-12-31
 ------
 
