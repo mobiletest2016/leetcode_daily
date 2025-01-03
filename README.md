@@ -1,3 +1,38 @@
+2025-01-03
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)
+
+
+
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
+
+
+:yellow_circle: [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)
+
+
+:red_circle: [2407. Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/)
+
+
+:green_circle: [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
+
+
+:red_circle: [1632. Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)
+
+
+:yellow_circle: [15. 3Sum](https://leetcode.com/problems/3sum/)
+
+
+:red_circle: [1755. Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/)
+
+
+:yellow_circle: [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+
+
+
 2025-01-02
 ------
 
