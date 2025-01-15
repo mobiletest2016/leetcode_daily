@@ -1,3 +1,38 @@
+2025-01-15
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:yellow_circle: [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
+
+
+:red_circle: [854. K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)
+
+
+:yellow_circle: [55. Jump Game](https://leetcode.com/problems/jump-game/)
+
+
+:yellow_circle: [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
+
+
+:red_circle: [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)
+
+
+:yellow_circle: [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)
+
+
+:green_circle: [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
+
+
+
 2025-01-14
 ------
 
