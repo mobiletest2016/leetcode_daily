@@ -1,3 +1,38 @@
+2025-01-28
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"> [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)
+
+
+:yellow_circle: [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
+
+
+:yellow_circle: [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+
+:yellow_circle: [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+
+:yellow_circle: [1177. Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)
+
+
+:yellow_circle: [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+
+
+:green_circle: [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+
+
+:red_circle: [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+
+
+
 2025-01-27
 ------
 
