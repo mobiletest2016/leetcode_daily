@@ -1,3 +1,38 @@
+2025-01-29
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:green_circle: [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
+
+
+:green_circle: :lock: [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)
+
+
+:yellow_circle: [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
+
+
+:yellow_circle: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
+
+
+:red_circle: [1494. Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/)
+
+
+:red_circle: [2179. Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/)
+
+
+:yellow_circle: [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+
+
+
 2025-01-28
 ------
 
