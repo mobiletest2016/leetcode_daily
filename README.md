@@ -1,3 +1,38 @@
+2025-02-04
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)
+
+
+:green_circle: [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+
+
+:yellow_circle: [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+
+:yellow_circle: [375. Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
+
+
+:red_circle: [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+
+
+:yellow_circle: [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+
+:yellow_circle: [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/)
+
+
+:green_circle: [326. Power of Three](https://leetcode.com/problems/power-of-three/)
+
+
+
 2025-02-03
 ------
 
