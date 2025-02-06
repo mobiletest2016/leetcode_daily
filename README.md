@@ -1,3 +1,38 @@
+2025-02-06
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+
+
+:yellow_circle: [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+
+:yellow_circle: [1690. Stone Game VII](https://leetcode.com/problems/stone-game-vii/)
+
+
+:red_circle: :lock: [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)
+
+
+:red_circle: [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)
+
+
+:green_circle: [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+
+:yellow_circle: [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)
+
+
+:yellow_circle: :lock: [737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)
+
+
+
 2025-02-05
 ------
 
