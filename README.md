@@ -1,3 +1,38 @@
+2025-02-07
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)
+
+
+:yellow_circle: [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:yellow_circle: [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+
+
+:yellow_circle: [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+
+:red_circle: [1879. Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/)
+
+
+:green_circle: [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)
+
+
+:yellow_circle: [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+
+
+:red_circle: [2589. Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/)
+
+
+
 2025-02-06
 ------
 
