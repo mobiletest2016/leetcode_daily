@@ -1,3 +1,38 @@
+2025-02-11
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture>
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+
+
+:yellow_circle: [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+
+:yellow_circle: [1690. Stone Game VII](https://leetcode.com/problems/stone-game-vii/)
+
+
+:green_circle: [1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
+
+
+:red_circle: [1815. Maximum Number of Groups Getting Fresh Donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/)
+
+
+:yellow_circle: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+
+:yellow_circle: [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)
+
+
+:yellow_circle: [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
+
+
+
 2025-02-10
 ------
 
