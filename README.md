@@ -1,3 +1,38 @@
+2025-02-14
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
+:red_circle: [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
+
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+
+
+:red_circle: [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
+
+
+:green_circle: [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+
+:yellow_circle: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
+
+
+:yellow_circle: [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+
+:yellow_circle: [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+
+
+
 2025-02-13
 ------
 
