@@ -1,3 +1,38 @@
+2025-02-20
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)
+
+
+:red_circle: :lock: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)
+
+
+:yellow_circle: [1648. Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)
+
+
+:green_circle: [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+
+:yellow_circle: [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+
+:yellow_circle: [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+
+
+:green_circle: [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+
+:red_circle: :lock: [499. The Maze III](https://leetcode.com/problems/the-maze-iii/)
+
+
+:yellow_circle: [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
+
+
+
 2025-02-19
 ------
 
