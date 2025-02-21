@@ -1,3 +1,38 @@
+2025-02-21
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2790. Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/)
+
+
+:yellow_circle: [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)
+
+
+:green_circle: [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+
+
+:yellow_circle: [1053. Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)
+
+
+:red_circle: [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
+
+
+:red_circle: [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:yellow_circle: [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
+
+
+:red_circle: [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)
+
+
+
 2025-02-20
 ------
 
