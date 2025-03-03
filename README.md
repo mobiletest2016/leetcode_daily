@@ -1,3 +1,38 @@
+2025-03-03
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2097. Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+
+
+:red_circle: :lock: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)
+
+
+:red_circle: [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)
+
+
+:yellow_circle: [86. Partition List](https://leetcode.com/problems/partition-list/)
+
+
+:yellow_circle: [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
+
+
+:red_circle: [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/)
+
+
+:yellow_circle: [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+
+
+:yellow_circle: [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:yellow_circle: [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+
+
+
 2025-02-28
 ------
 
