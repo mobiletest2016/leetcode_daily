@@ -1,3 +1,38 @@
+2025-03-06
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/)
+
+
+:green_circle: [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+
+
+:red_circle: [1542. Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/)
+
+
+:yellow_circle: [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+
+
+:red_circle: [1157. Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
+
+
+:yellow_circle: [1856. Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/)
+
+
+:yellow_circle: [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)
+
+
+:yellow_circle: [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
+
+
+
 2025-03-05
 ------
 
