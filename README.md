@@ -1,3 +1,38 @@
+2025-03-11
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:yellow_circle: [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+
+
+:yellow_circle: [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
+
+
+:yellow_circle: [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
+
+
+:red_circle: [2407. Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/)
+
+
+:green_circle: [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+
+
+:yellow_circle: [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+
+
+
+
+
+
 2025-03-10
 ------
 
