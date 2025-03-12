@@ -1,3 +1,38 @@
+2025-03-12
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [134. Gas Station](https://leetcode.com/problems/gas-station/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)
+
+
+:red_circle: [2426. Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
+
+
+:yellow_circle: [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)
+
+
+:yellow_circle: [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+
+
+:yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+
+
+:red_circle: [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+
+
+:yellow_circle: [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
+
+
+:red_circle: [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+
+
+
 2025-03-11
 ------
 
