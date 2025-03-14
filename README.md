@@ -1,3 +1,38 @@
+2025-03-14
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+
+:yellow_circle: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+
+:green_circle: [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
+
+:red_circle: :lock: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)
+
+
+:yellow_circle: [808. Soup Servings](https://leetcode.com/problems/soup-servings/)
+
+
+:yellow_circle: [77. Combinations](https://leetcode.com/problems/combinations/)
+
+
+:yellow_circle: [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
+
+
+:yellow_circle: [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+
+
 2025-03-13
 ------
 
