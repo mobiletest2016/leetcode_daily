@@ -1,3 +1,38 @@
+2025-03-21
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [502. IPO](https://leetcode.com/problems/ipo/)
+
+
+:red_circle: [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
+
+
+:yellow_circle: [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
+
+
+:green_circle: [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
+
+
+:yellow_circle: [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
+
+
+:yellow_circle: [97. Interleaving String](https://leetcode.com/problems/interleaving-string/)
+
+
+:red_circle: [391. Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
+
+
+:yellow_circle: [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)
+
+
+
 2025-03-20
 ------
 
