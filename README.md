@@ -1,3 +1,38 @@
+2025-04-03
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+
+:red_circle: [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
+
+
+:yellow_circle: [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+
+:yellow_circle: [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:red_circle: [1157. Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
+
+
+:red_circle: [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+
+
+:yellow_circle: [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+
+
+:red_circle: [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
+
+
 2025-04-02
 ------
 
