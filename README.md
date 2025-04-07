@@ -1,3 +1,38 @@
+2025-04-07
+------
+
+
+
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)
+
+
+:green_circle: [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)
+
+
+:green_circle: [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+
+:green_circle: [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
+
+
+:red_circle: [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+
+
+:yellow_circle: [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
+
+
+:green_circle: [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
+
+
+:green_circle: [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+
+
+
 2025-04-04
 ------
 
