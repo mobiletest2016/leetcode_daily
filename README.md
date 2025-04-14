@@ -1,3 +1,38 @@
+2025-04-14
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/)
+
+
+:yellow_circle: [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+
+
+:yellow_circle: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+
+:red_circle: [805. Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)
+
+
+:yellow_circle: [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)
+
+
+:red_circle: :lock: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)
+
+
+:red_circle: [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
+
+
+:yellow_circle: [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
+
+
+
 2025-04-11
 ------
 
