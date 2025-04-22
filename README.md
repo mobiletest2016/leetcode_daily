@@ -1,3 +1,38 @@
+2025-04-22
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
+
+:green_circle: [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+
+
+:red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+
+
+:yellow_circle: [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
+
+
+:red_circle: [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
+
+
+:yellow_circle: [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+
+
+:yellow_circle: [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+
+
+:red_circle: [2659. Make Array Empty](https://leetcode.com/problems/make-array-empty/)
+
+
+
 2025-04-21
 ------
 
