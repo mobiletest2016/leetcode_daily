@@ -1,3 +1,38 @@
+2025-04-25
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+
+
+:green_circle: [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
+
+
+:green_circle: [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+
+:green_circle: [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
+
+:yellow_circle: [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
+
+
+:red_circle: [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
+
+
+:yellow_circle: [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
+
+
+:yellow_circle: [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+
+
+
 2025-04-24
 ------
 
