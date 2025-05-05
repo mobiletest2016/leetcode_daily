@@ -1,3 +1,38 @@
+2025-05-05
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/)
+
+
+:yellow_circle: [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
+
+
+:red_circle: [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
+
+
+:yellow_circle: :lock: [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)
+
+
+:yellow_circle: [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+
+
+:green_circle: [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
+
+:yellow_circle: [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
+
+
+:yellow_circle: [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+
+
+
 2025-05-02
 ------
 
