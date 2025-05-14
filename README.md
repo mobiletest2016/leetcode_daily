@@ -1,3 +1,38 @@
+2025-05-14
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+
+
+:yellow_circle: [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
+
+
+:red_circle: [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
+
+
+:yellow_circle: [78. Subsets](https://leetcode.com/problems/subsets/)
+
+
+:yellow_circle: [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)
+
+
+:yellow_circle: [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
+
+
+:yellow_circle: [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
+
+
+:green_circle: [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
+
+
+
 2025-05-13
 ------
 
