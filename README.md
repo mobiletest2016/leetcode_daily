@@ -1,3 +1,38 @@
+2025-05-15
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
+
+
+:yellow_circle: [835. Image Overlap](https://leetcode.com/problems/image-overlap/)
+
+
+:yellow_circle: [289. Game of Life](https://leetcode.com/problems/game-of-life/)
+
+
+:yellow_circle: [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
+
+
+:yellow_circle: [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+
+
+:yellow_circle: [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+
+
+:yellow_circle: [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
+
+
+:yellow_circle: [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)
+
+
+
 2025-05-14
 ------
 
