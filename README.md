@@ -1,3 +1,38 @@
+2025-05-19
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [664. Strange Printer](https://leetcode.com/problems/strange-printer/)
+
+
+:yellow_circle: [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+
+
+:red_circle: [1659. Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/)
+
+
+:yellow_circle: [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
+
+
+:red_circle: [2179. Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/)
+
+
+:red_circle: [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
+
+
+:yellow_circle: [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)
+
+
+:yellow_circle: [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)
+
+
+
 2025-05-16
 ------
 
