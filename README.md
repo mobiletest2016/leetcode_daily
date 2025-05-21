@@ -1,3 +1,38 @@
+2025-05-21
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1227. Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)
+
+
+:yellow_circle: [15. 3Sum](https://leetcode.com/problems/3sum/)
+
+
+:red_circle: :lock: [2519. Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/)
+
+
+:yellow_circle: [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
+
+
+:yellow_circle: [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
+
+:yellow_circle: [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+
+
+:yellow_circle: [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+
+
+:red_circle: [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
+
+
+
 2025-05-20
 ------
 
