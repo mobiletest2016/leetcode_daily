@@ -1,3 +1,38 @@
+2025-05-23
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+
+
+:red_circle: [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+
+
+:yellow_circle: [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+
+:yellow_circle: [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+
+
+:yellow_circle: [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+
+
+:yellow_circle: [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+
+
+:yellow_circle: [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)
+
+
+:yellow_circle: [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
+
+
+
 2025-05-22
 ------
 
