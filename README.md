@@ -1,3 +1,38 @@
+2025-05-27
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2800. Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
+
+:yellow_circle: [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
+
+:yellow_circle: [1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)
+
+
+:green_circle: [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
+
+:red_circle: [2276. Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/)
+
+
+:yellow_circle: [78. Subsets](https://leetcode.com/problems/subsets/)
+
+
+:yellow_circle: [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+
+
+:yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+
+
+
 2025-05-26
 ------
 
