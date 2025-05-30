@@ -1,3 +1,38 @@
+2025-05-30
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+
+
+:yellow_circle: :lock: [2473. Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/)
+
+
+:yellow_circle: [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+
+:yellow_circle: [394. Decode String](https://leetcode.com/problems/decode-string/)
+
+
+:red_circle: [1542. Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/)
+
+
+:red_circle: :lock: [2519. Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/)
+
+
+:yellow_circle: [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+
+:green_circle: [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
+
+
 2025-05-29
 ------
 
