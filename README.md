@@ -1,3 +1,38 @@
+2025-06-04
+------
+
+
+
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
+
+
+:red_circle: [2589. Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/)
+
+
+:red_circle: [2736. Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)
+
+
+:yellow_circle: [322. Coin Change](https://leetcode.com/problems/coin-change/)
+
+
+:yellow_circle: [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+
+
+:green_circle: [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+
+
+:red_circle: [2736. Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)
+
+
+:yellow_circle: [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+
+
+
 2025-06-03
 ------
 
