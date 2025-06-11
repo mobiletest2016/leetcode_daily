@@ -1,3 +1,38 @@
+2025-06-11
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)
+
+
+
+
+
+:yellow_circle: [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
+
+
+:yellow_circle: [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+
+
+:yellow_circle: [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/)
+
+
+:yellow_circle: [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+
+
+:green_circle: [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+
+
+:green_circle: [1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
+
+
+:yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+
+
 2025-06-10
 ------
 
