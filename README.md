@@ -1,3 +1,38 @@
+2025-07-03
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
+
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+
+
+:yellow_circle: [853. Car Fleet](https://leetcode.com/problems/car-fleet/)
+
+
+:green_circle: [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+
+
+:red_circle: [854. K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)
+
+
+:red_circle: [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:green_circle: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+
+
+:red_circle: [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+
+
+
 2025-07-02
 ------
 
