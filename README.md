@@ -1,3 +1,38 @@
+2025-07-04
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [169. Majority Element](https://leetcode.com/problems/majority-element/)
+
+
+:yellow_circle: [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+
+
+:red_circle: [2426. Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
+
+
+:yellow_circle: [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)
+
+
+:yellow_circle: [2735. Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/)
+
+
+:green_circle: [231. Power of Two](https://leetcode.com/problems/power-of-two/)
+
+
+:green_circle: [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+
+:red_circle: [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)
+
+
+
 2025-07-03
 ------
 
