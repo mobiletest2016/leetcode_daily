@@ -1,3 +1,38 @@
+2025-07-09
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+
+:yellow_circle: [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
+
+
+:yellow_circle: [394. Decode String](https://leetcode.com/problems/decode-string/)
+
+
+:green_circle: [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+
+
+:yellow_circle: [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)
+
+
+:yellow_circle: :lock: [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/)
+
+
+:red_circle: [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)
+
+
+:green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
+
+
+
 2025-07-08
 ------
 
