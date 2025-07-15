@@ -1,3 +1,38 @@
+2025-07-15
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)
+
+
+
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+
+
+:red_circle: [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
+
+
+:yellow_circle: [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:yellow_circle: [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+
+
+:red_circle: [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+
+
+:yellow_circle: :lock: [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)
+
+
+:red_circle: [2286. Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/)
+
+
+:yellow_circle: :lock: [1272. Remove Interval](https://leetcode.com/problems/remove-interval/)
+
+
+
 2025-07-14
 ------
 
