@@ -1,3 +1,38 @@
+2025-07-21
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:yellow_circle: [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
+
+
+:yellow_circle: [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+
+
+:red_circle: [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
+
+
+:red_circle: [2213. Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)
+
+
+:yellow_circle: [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
+
+
+:yellow_circle: [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+
+
+:red_circle: [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)
+
+
+
 2025-07-18
 ------
 
