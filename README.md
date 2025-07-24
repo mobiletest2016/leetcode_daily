@@ -1,3 +1,38 @@
+2025-07-24
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1117. Building H2O](https://leetcode.com/problems/building-h2o/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+
+:yellow_circle: [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+
+
+:yellow_circle: [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+
+
+:yellow_circle: [2424. Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/)
+
+
+:green_circle: [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
+
+
+:green_circle: [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
+
+:yellow_circle: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+
+
+:yellow_circle: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+
+
+
 2025-07-23
 ------
 
