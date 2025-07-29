@@ -1,3 +1,38 @@
+2025-07-29
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+
+:yellow_circle: [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)
+
+
+:red_circle: [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
+
+
+:red_circle: [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
+
+
+:yellow_circle: [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
+
+
+:yellow_circle: [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/)
+
+
+:yellow_circle: [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+
+
+:yellow_circle: [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
+
+
+
 2025-07-28
 ------
 
