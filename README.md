@@ -1,3 +1,38 @@
+2025-07-31
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [460. LFU Cache](https://leetcode.com/problems/lfu-cache/)
+
+
+:yellow_circle: [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+
+
+:yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+
+
+:yellow_circle: [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
+
+
+:yellow_circle: [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+
+
+:yellow_circle: [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
+
+
+:red_circle: [2203. Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/)
+
+
+:yellow_circle: [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+
+
 2025-07-30
 ------
 
