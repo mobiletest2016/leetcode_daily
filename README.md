@@ -1,3 +1,38 @@
+2025-08-04
+------
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
+
+
+:yellow_circle: [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+
+
+:yellow_circle: [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
+
+
+:yellow_circle: [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)
+
+
+:yellow_circle: [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
+
+
+:green_circle: [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+
+
+:yellow_circle: [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+
+:red_circle: [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+
+
+
 2025-08-01
 ------
 
