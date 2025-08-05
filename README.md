@@ -1,3 +1,38 @@
+2025-08-05
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2741. Special Permutations](https://leetcode.com/problems/special-permutations/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
+
+
+:yellow_circle: [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+
+
+:yellow_circle: :lock: [1272. Remove Interval](https://leetcode.com/problems/remove-interval/)
+
+
+:green_circle: :lock: [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)
+
+
+:yellow_circle: [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
+
+
+:yellow_circle: [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+
+:green_circle: [1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
+
+
+:green_circle: [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+
+
+
 2025-08-04
 ------
 
