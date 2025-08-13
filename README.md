@@ -1,3 +1,38 @@
+2025-08-13
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)
+
+
+:yellow_circle: [343. Integer Break](https://leetcode.com/problems/integer-break/)
+
+
+:red_circle: [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+
+
+:yellow_circle: [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)
+
+
+:yellow_circle: [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)
+
+
+:yellow_circle: [55. Jump Game](https://leetcode.com/problems/jump-game/)
+
+
+:yellow_circle: [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
+
+
+:yellow_circle: [1818. Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
+
+
+
 2025-08-12
 ------
 
