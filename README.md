@@ -1,3 +1,38 @@
+2025-08-15
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
+
+
+:red_circle: [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)
+
+
+:yellow_circle: [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)
+
+
+:yellow_circle: [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
+
+
+:yellow_circle: [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
+
+
+:red_circle: [1494. Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/)
+
+
+:red_circle: [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)
+
+
+:red_circle: [1815. Maximum Number of Groups Getting Fresh Donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/)
+
+
+
 2025-08-14
 ------
 
