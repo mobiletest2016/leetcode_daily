@@ -1,3 +1,38 @@
+2025-08-21
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
+
+
+:red_circle: [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
+
+:red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+
+
+:yellow_circle: [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:green_circle: [342. Power of Four](https://leetcode.com/problems/power-of-four/)
+
+
+:red_circle: [2276. Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/)
+
+
+:yellow_circle: [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)
+
+
+:yellow_circle: [90. Subsets II](https://leetcode.com/problems/subsets-ii/)
+
+
+
 2025-08-20
 ------
 
