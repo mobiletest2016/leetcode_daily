@@ -1,3 +1,38 @@
+2025-08-22
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
+
+:green_circle: :lock: [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+
+
+:green_circle: [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+
+:yellow_circle: [1648. Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)
+
+
+:yellow_circle: [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+
+:yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)
+
+
+:red_circle: [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+
+
+:yellow_circle: [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
+
+
+
 2025-08-21
 ------
 
