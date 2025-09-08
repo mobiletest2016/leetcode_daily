@@ -1,3 +1,38 @@
+2025-09-08
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+
+
+:yellow_circle: [475. Heaters](https://leetcode.com/problems/heaters/)
+
+
+:yellow_circle: [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
+
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+
+
+:yellow_circle: [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
+
+
+:yellow_circle: [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+
+:red_circle: [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
+
+
+
 2025-09-05
 ------
 
