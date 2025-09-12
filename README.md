@@ -1,3 +1,38 @@
+2025-09-12
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)
+
+
+:yellow_circle: [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+
+
+:red_circle: [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)
+
+
+:yellow_circle: [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+
+
+:green_circle: [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
+
+
+:yellow_circle: [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+
+
+:yellow_circle: [46. Permutations](https://leetcode.com/problems/permutations/)
+
+
+:red_circle: [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+
+
+
 2025-09-11
 ------
 
