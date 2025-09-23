@@ -1,3 +1,38 @@
+2025-09-23
+------
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+
+
+:red_circle: [1632. Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)
+
+
+:red_circle: [2286. Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/)
+
+
+:yellow_circle: [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+
+
+:green_circle: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+
+:yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)
+
+
+:yellow_circle: :lock: [2473. Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/)
+
+
+:red_circle: [1542. Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/)
+
+
+
 2025-09-22
 ------
 
