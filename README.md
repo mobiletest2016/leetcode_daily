@@ -1,3 +1,38 @@
+2025-10-02
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)
+
+
+:green_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+
+
+:red_circle: [1537. Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/)
+
+
+:yellow_circle: [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+
+
+:yellow_circle: [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+
+
+:yellow_circle: [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+
+
+:yellow_circle: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+
+:yellow_circle: [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+
+
+:yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+
+
+
 2025-10-01
 ------
 
