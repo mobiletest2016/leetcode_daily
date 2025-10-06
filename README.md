@@ -1,3 +1,38 @@
+2025-10-06
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)
+
+
+:yellow_circle: [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)
+
+
+:red_circle: [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+
+
+:yellow_circle: [394. Decode String](https://leetcode.com/problems/decode-string/)
+
+
+:yellow_circle: [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
+
+
+:yellow_circle: [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+
+
+:green_circle: [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)
+
+
+:red_circle: [2659. Make Array Empty](https://leetcode.com/problems/make-array-empty/)
+
+
+
 2025-10-03
 ------
 
