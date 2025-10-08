@@ -1,3 +1,38 @@
+2025-10-08
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [68. Text Justification](https://leetcode.com/problems/text-justification/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+
+
+:yellow_circle: [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+
+
+:red_circle: [2286. Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/)
+
+
+:green_circle: [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+
+
+:green_circle: [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
+
+
+:green_circle: [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+
+
+:yellow_circle: [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+
+
 2025-10-07
 ------
 
