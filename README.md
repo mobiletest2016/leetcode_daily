@@ -1,3 +1,38 @@
+2025-10-10
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
+
+
+:yellow_circle: [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+
+
+:red_circle: [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:yellow_circle: [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+
+
+:yellow_circle: [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
+
+
+:yellow_circle: [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+
+
+:yellow_circle: [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)
+
+
+:green_circle: [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
+
+
+
 2025-10-09
 ------
 
