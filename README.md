@@ -1,3 +1,38 @@
+2025-10-16
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1206. Design Skiplist](https://leetcode.com/problems/design-skiplist/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
+
+
+:green_circle: [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+
+:yellow_circle: [46. Permutations](https://leetcode.com/problems/permutations/)
+
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+
+
+:red_circle: [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
+
+
+:yellow_circle: [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+
+
+:yellow_circle: [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+
+
+:red_circle: [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+
+
+
 2025-10-15
 ------
 
