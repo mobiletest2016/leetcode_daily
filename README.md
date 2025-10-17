@@ -1,3 +1,38 @@
+2025-10-17
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
+
+
+:yellow_circle: [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)
+
+
+:green_circle: [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+
+
+:green_circle: [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
+
+
+:yellow_circle: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+
+
+:yellow_circle: [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+
+
+:yellow_circle: [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)
+
+
+:red_circle: [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+
+
+
 2025-10-16
 ------
 
