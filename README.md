@@ -1,3 +1,38 @@
+2025-10-29
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+
+
+:red_circle: [2407. Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/)
+
+
+:yellow_circle: [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)
+
+
+:red_circle: [2276. Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/)
+
+
+:red_circle: :lock: [2714. Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/)
+
+
+:yellow_circle: [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
+
+
+:yellow_circle: [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+
+
+:red_circle: [2454. Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/)
+
+
+
 2025-10-28
 ------
 
