@@ -1,3 +1,38 @@
+2025-11-06
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/)
+
+
+:yellow_circle: [55. Jump Game](https://leetcode.com/problems/jump-game/)
+
+
+:yellow_circle: [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+
+
+:yellow_circle: [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
+
+
+:yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+
+:yellow_circle: [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+
+
+:red_circle: [1681. Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/)
+
+
+:green_circle: [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+
+
 2025-11-05
 ------
 
