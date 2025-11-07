@@ -1,3 +1,38 @@
+2025-11-07
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+
+
+:red_circle: [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+
+
+:yellow_circle: [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)
+
+
+:green_circle: [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
+
+:yellow_circle: [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
+
+
+:red_circle: [1923. Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/)
+
+
+:yellow_circle: [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:red_circle: [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
+
+
+
 2025-11-06
 ------
 
