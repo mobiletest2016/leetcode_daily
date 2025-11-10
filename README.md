@@ -1,3 +1,38 @@
+2025-11-10
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:yellow_circle: [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+
+
+:yellow_circle: [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:green_circle: [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
+
+
+:yellow_circle: [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/)
+
+
+:yellow_circle: [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
+
+
+:red_circle: [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+
+
+:red_circle: :lock: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)
+
+
+
 2025-11-07
 ------
 
