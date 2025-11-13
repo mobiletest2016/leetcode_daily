@@ -1,3 +1,38 @@
+2025-11-13
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [87. Scramble String](https://leetcode.com/problems/scramble-string/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
+
+
+:green_circle: [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
+
+
+:yellow_circle: [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+
+
+:red_circle: [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+
+
+:yellow_circle: [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+
+
+:yellow_circle: [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+
+:red_circle: [1537. Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/)
+
+
+:yellow_circle: [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
+
+
+
 2025-11-12
 ------
 
