@@ -1,3 +1,38 @@
+2025-11-14
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [68. Text Justification](https://leetcode.com/problems/text-justification/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
+
+
+:yellow_circle: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+
+
+:red_circle: [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
+
+:yellow_circle: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+
+:yellow_circle: [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+
+
+:red_circle: [1687. Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/)
+
+
+:yellow_circle: [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
+
+
+:yellow_circle: [1024. Video Stitching](https://leetcode.com/problems/video-stitching/)
+
+
+
 2025-11-13
 ------
 
