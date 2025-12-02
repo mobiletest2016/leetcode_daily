@@ -1,3 +1,38 @@
+2025-12-02
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+
+
+:yellow_circle: [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)
+
+
+:yellow_circle: [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+
+
+:red_circle: [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
+
+
+:red_circle: [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:yellow_circle: [86. Partition List](https://leetcode.com/problems/partition-list/)
+
+
+:yellow_circle: [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)
+
+
+:yellow_circle: [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)
+
+
+
 2025-12-01
 ------
 
