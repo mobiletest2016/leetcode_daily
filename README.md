@@ -1,3 +1,38 @@
+2025-12-08
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
+
+
+:red_circle: [928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)
+
+
+:yellow_circle: :lock: [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+
+
+:red_circle: [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+
+
+:yellow_circle: [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)
+
+
+:red_circle: [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:red_circle: :lock: [2519. Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/)
+
+
+:green_circle: [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+
+
+
 2025-12-05
 ------
 
