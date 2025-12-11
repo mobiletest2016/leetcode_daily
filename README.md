@@ -1,3 +1,38 @@
+2025-12-11
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1727. Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+
+
+:yellow_circle: [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+
+
+:red_circle: [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:yellow_circle: [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+
+
+:yellow_circle: [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+
+
+:yellow_circle: [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
+
+
+:yellow_circle: [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+
+
+:yellow_circle: [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)
+
+
+
 2025-12-10
 ------
 
