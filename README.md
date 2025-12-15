@@ -1,3 +1,38 @@
+2025-12-15
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
+
+
+:green_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1909. Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/)
+
+
+:red_circle: [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+
+
+:red_circle: :lock: [2714. Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/)
+
+
+:yellow_circle: [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)
+
+
+:green_circle: [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+
+
+:red_circle: [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
+
+
+:green_circle: [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/)
+
+
+:yellow_circle: [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+
+
+
 2025-12-12
 ------
 
