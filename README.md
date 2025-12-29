@@ -1,3 +1,38 @@
+2025-12-29
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
+
+
+:yellow_circle: [394. Decode String](https://leetcode.com/problems/decode-string/)
+
+
+:yellow_circle: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+
+
+:yellow_circle: [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+
+
+:red_circle: [1157. Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
+
+
+:yellow_circle: [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
+
+
+:yellow_circle: [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)
+
+
+:red_circle: :lock: [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)
+
+
+
 2025-12-26
 ------
 
