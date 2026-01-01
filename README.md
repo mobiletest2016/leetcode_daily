@@ -1,3 +1,38 @@
+2026-01-01
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
+
+
+:yellow_circle: [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+
+
+:red_circle: [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
+
+:red_circle: [715. Range Module](https://leetcode.com/problems/range-module/)
+
+
+:green_circle: [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)
+
+
+:green_circle: [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+
+:yellow_circle: [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+
+
+:yellow_circle: [394. Decode String](https://leetcode.com/problems/decode-string/)
+
+
+
 2025-12-31
 ------
 
