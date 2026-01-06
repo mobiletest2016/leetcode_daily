@@ -1,3 +1,38 @@
+2026-01-06
+------
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1117. Building H2O](https://leetcode.com/problems/building-h2o/)
+
+
+:yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+
+:yellow_circle: [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
+
+
+:green_circle: [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+
+:red_circle: [854. K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)
+
+
+:yellow_circle: [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)
+
+
+:green_circle: [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
+
+
+:yellow_circle: [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
+
+
+
 2026-01-05
 ------
 
