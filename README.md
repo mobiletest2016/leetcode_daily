@@ -1,3 +1,38 @@
+2026-01-08
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [460. LFU Cache](https://leetcode.com/problems/lfu-cache/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1206. Design Skiplist](https://leetcode.com/problems/design-skiplist/)
+
+
+:yellow_circle: [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
+
+
+:red_circle: [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+
+
+:red_circle: :lock: [1168. Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)
+
+
+:red_circle: :lock: [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)
+
+
+:green_circle: [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+
+
+:yellow_circle: [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+
+
+:green_circle: [704. Binary Search](https://leetcode.com/problems/binary-search/)
+
+
+
 2026-01-07
 ------
 
