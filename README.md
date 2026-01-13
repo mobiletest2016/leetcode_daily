@@ -1,3 +1,38 @@
+2026-01-13
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+
+
+:yellow_circle: [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+
+
+:yellow_circle: [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
+
+
+:red_circle: [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+
+
+:yellow_circle: [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+
+
+:yellow_circle: [1177. Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)
+
+
+:yellow_circle: [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+
+
+:green_circle: [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
+
+
+
 2026-01-12
 ------
 
