@@ -1,3 +1,38 @@
+2026-01-14
+------
+
+
+:green_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+
+
+:yellow_circle: [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)
+
+
+:yellow_circle: [877. Stone Game](https://leetcode.com/problems/stone-game/)
+
+
+:yellow_circle: [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)
+
+
+:green_circle: [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
+
+
+:yellow_circle: [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)
+
+
+:green_circle: [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+
+
+:yellow_circle: [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
+
+
+
 2026-01-13
 ------
 
