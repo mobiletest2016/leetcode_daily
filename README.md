@@ -1,3 +1,38 @@
+2026-01-21
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
+
+
+:red_circle: [1755. Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/)
+
+
+:yellow_circle: [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+
+
+:green_circle: [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+
+
+:yellow_circle: :lock: [1272. Remove Interval](https://leetcode.com/problems/remove-interval/)
+
+
+:yellow_circle: [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+
+:yellow_circle: [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
+
+
+:yellow_circle: [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+
+
+
 2026-01-20
 ------
 
