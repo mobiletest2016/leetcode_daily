@@ -1,3 +1,38 @@
+2026-01-22
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+
+
+:yellow_circle: [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+
+
+:yellow_circle: [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)
+
+
+:yellow_circle: [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+
+
+:yellow_circle: [2080. Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/)
+
+
+:green_circle: [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
+
+
+:yellow_circle: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+
+:green_circle: [1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
+
+
+
 2026-01-21
 ------
 
