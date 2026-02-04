@@ -1,3 +1,38 @@
+2026-02-04
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [51. N-Queens](https://leetcode.com/problems/n-queens/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+
+:green_circle: [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
+
+:green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
+
+
+:yellow_circle: [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+
+
+:red_circle: [1349. Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)
+
+
+:green_circle: [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+
+
+:green_circle: [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+
+
+:yellow_circle: [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+
+
+
 2026-02-03
 ------
 
