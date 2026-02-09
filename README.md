@@ -1,3 +1,38 @@
+2026-02-09
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+
+
+:red_circle: [928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)
+
+
+:red_circle: :lock: [2714. Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/)
+
+
+:green_circle: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+
+:green_circle: [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+
+:yellow_circle: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+
+
+:yellow_circle: [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+
+:yellow_circle: [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
+
+
+
 2026-02-06
 ------
 
