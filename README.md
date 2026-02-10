@@ -1,3 +1,38 @@
+2026-02-10
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+
+:yellow_circle: :lock: [2297. Jump Game VIII](https://leetcode.com/problems/jump-game-viii/)
+
+
+:yellow_circle: [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+
+
+:yellow_circle: [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+
+
+:red_circle: [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+
+
+:green_circle: [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
+
+:green_circle: [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+
+
+:red_circle: [1622. Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)
+
+
+
 2026-02-09
 ------
 
