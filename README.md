@@ -1,3 +1,38 @@
+2026-02-19
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
+
+:yellow_circle: [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
+
+
+:yellow_circle: [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+
+
+:green_circle: [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
+
+
+:yellow_circle: [475. Heaters](https://leetcode.com/problems/heaters/)
+
+
+:yellow_circle: [2080. Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/)
+
+
+:yellow_circle: [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+
+
+:red_circle: [1681. Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/)
+
+
+
 2026-02-18
 ------
 
