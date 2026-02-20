@@ -1,3 +1,38 @@
+2026-02-20
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+
+
+:yellow_circle: [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+
+
+:yellow_circle: [2555. Maximize Win From Two Segments](https://leetcode.com/problems/maximize-win-from-two-segments/)
+
+
+:yellow_circle: [443. String Compression](https://leetcode.com/problems/string-compression/)
+
+
+:yellow_circle: [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+
+
+:red_circle: [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+
+
+:red_circle: [2484. Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/)
+
+
+:yellow_circle: [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+
+
+
 2026-02-19
 ------
 
