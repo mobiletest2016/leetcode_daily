@@ -1,3 +1,38 @@
+2026-03-05
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
+
+
+:yellow_circle: [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+
+:yellow_circle: [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+
+
+:yellow_circle: [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)
+
+
+:green_circle: [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+
+:yellow_circle: [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+
+:green_circle: [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+
+:yellow_circle: [436. Find Right Interval](https://leetcode.com/problems/find-right-interval/)
+
+
+
 2026-03-04
 ------
 
