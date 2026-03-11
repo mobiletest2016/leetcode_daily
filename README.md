@@ -1,3 +1,38 @@
+2026-03-11
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [815. Bus Routes](https://leetcode.com/problems/bus-routes/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [87. Scramble String](https://leetcode.com/problems/scramble-string/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
+
+
+:yellow_circle: [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+
+
+:yellow_circle: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+
+:green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
+
+
+:yellow_circle: [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+
+
+:red_circle: [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)
+
+
+:yellow_circle: [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)
+
+
+:yellow_circle: [1648. Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)
+
+
+
 2026-03-10
 ------
 
