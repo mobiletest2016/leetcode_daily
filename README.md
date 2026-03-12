@@ -1,3 +1,38 @@
+2026-03-12
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)
+
+
+:yellow_circle: [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)
+
+
+:green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
+
+
+:red_circle: [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+
+
+:yellow_circle: [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+
+
+:yellow_circle: [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+
+:yellow_circle: [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)
+
+
+:green_circle: [231. Power of Two](https://leetcode.com/problems/power-of-two/)
+
+
+
 2026-03-11
 ------
 
