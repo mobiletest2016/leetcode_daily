@@ -1,3 +1,38 @@
+2026-03-16
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [135. Candy](https://leetcode.com/problems/candy/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1444. Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)
+
+
+:yellow_circle: [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+
+:yellow_circle: [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/)
+
+
+:red_circle: :lock: [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)
+
+
+:yellow_circle: [2735. Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/)
+
+
+:yellow_circle: [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+
+
+:yellow_circle: [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)
+
+
+:yellow_circle: [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)
+
+
+
 2026-03-13
 ------
 
