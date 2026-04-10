@@ -1,3 +1,38 @@
+2026-04-10
+------
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
+
+
+:yellow_circle: [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+
+
+:yellow_circle: [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
+
+
+:yellow_circle: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+
+:yellow_circle: [2424. Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/)
+
+
+:green_circle: [258. Add Digits](https://leetcode.com/problems/add-digits/)
+
+
+:green_circle: [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+
+:yellow_circle: :lock: [2031. Count Subarrays With More Ones Than Zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/)
+
+
+
 2026-04-09
 ------
 
