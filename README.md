@@ -1,3 +1,38 @@
+2026-04-14
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+
+:yellow_circle: [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)
+
+
+:yellow_circle: [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+
+
+:red_circle: [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+
+:yellow_circle: [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+
+
+:yellow_circle: [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+
+
+:yellow_circle: [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+
+
+:red_circle: [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+
+
+
 2026-04-13
 ------
 
