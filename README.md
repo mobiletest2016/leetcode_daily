@@ -1,3 +1,38 @@
+2026-04-24
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture>
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
+
+
+:yellow_circle: [143. Reorder List](https://leetcode.com/problems/reorder-list/)
+
+
+:yellow_circle: [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+
+:yellow_circle: [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
+
+
+:yellow_circle: [1053. Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)
+
+
+:yellow_circle: [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+
+:red_circle: [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)
+
+
+:yellow_circle: [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+
+
 2026-04-23
 ------
 
