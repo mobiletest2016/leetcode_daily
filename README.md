@@ -1,3 +1,38 @@
+2026-04-29
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2741. Special Permutations](https://leetcode.com/problems/special-permutations/)
+
+
+:green_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+
+
+:red_circle: :lock: [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) [LINTCODE](https://www.lintcode.com/problem/434/)
+
+
+:yellow_circle: [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/)
+
+
+:yellow_circle: [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+
+
+:yellow_circle: [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+
+
+:green_circle: [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+
+
+:yellow_circle: [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+
+
+:yellow_circle: [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
+
+
+
 2026-04-28
 ------
 
