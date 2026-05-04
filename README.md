@@ -1,3 +1,38 @@
+2026-05-04
+------
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
+
+
+:yellow_circle: :lock: [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)
+
+
+:yellow_circle: [2730. Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/)
+
+
+:green_circle: [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+
+
+:green_circle: [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+
+:green_circle: [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+
+
+:green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
+
+
+:red_circle: [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+
+
+
 2026-05-01
 ------
 
