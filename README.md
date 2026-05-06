@@ -1,3 +1,38 @@
+2026-05-06
+------
+
+
+:red_circle: :lock: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)
+
+
+:green_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+
+
+:yellow_circle: [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
+
+
+:yellow_circle: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+
+
+:yellow_circle: [808. Soup Servings](https://leetcode.com/problems/soup-servings/)
+
+
+:yellow_circle: [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+
+
+:green_circle: [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
+
+
+:green_circle: [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+
+:red_circle: [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
+
+
+
 2026-05-05
 ------
 
