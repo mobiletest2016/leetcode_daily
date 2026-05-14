@@ -1,3 +1,38 @@
+2026-05-14
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [135. Candy](https://leetcode.com/problems/candy/)
+
+
+:yellow_circle: [443. String Compression](https://leetcode.com/problems/string-compression/)
+
+
+:yellow_circle: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+
+
+:red_circle: [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/)
+
+
+:red_circle: [2035. Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
+
+
+:yellow_circle: [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+
+
+:yellow_circle: [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+
+
+:yellow_circle: [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+
+
+
 2026-05-13
 ------
 
