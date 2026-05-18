@@ -1,3 +1,38 @@
+2026-05-18
+------
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+
+
+:yellow_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)
+
+
+:green_circle: [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
+
+
+:red_circle: [924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
+
+
+:yellow_circle: [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+
+
+:red_circle: [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+
+
+:yellow_circle: [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+
+:red_circle: [391. Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
+
+
+:red_circle: [2736. Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)
+
+
+
 2026-05-15
 ------
 
