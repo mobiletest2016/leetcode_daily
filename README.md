@@ -1,3 +1,38 @@
+2026-05-19
+------
+
+
+:red_circle: <picture><img class="emoji" alt="bulb" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/bulb.png?raw=true"></picture> [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
+
+
+:red_circle: <picture><img class="emoji" alt="star" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/star.png?raw=true"></picture> [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)
+
+
+:red_circle: <picture><img class="emoji" alt="ninja" height="35" width="35" src="https://github.com/mobiletest2016/leetcode_practice/blob/master/ninja.png?raw=true"></picture> [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+
+
+:red_circle: [2736. Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)
+
+
+:red_circle: [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)
+
+
+:yellow_circle: [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
+
+
+:yellow_circle: [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+
+
+:red_circle: [1434. Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+
+
+:red_circle: [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+
+
+:red_circle: [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+
+
+
 2026-05-18
 ------
 
